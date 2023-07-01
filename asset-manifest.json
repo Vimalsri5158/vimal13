@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vimal13/static/css/main.27625e21.css",
+    "main.js": "/vimal13/static/js/main.e0d97c9d.js",
+    "static/js/787.18dcb1b8.chunk.js": "/vimal13/static/js/787.18dcb1b8.chunk.js",
+    "index.html": "/vimal13/index.html",
+    "main.27625e21.css.map": "/vimal13/static/css/main.27625e21.css.map",
+    "main.e0d97c9d.js.map": "/vimal13/static/js/main.e0d97c9d.js.map",
+    "787.18dcb1b8.chunk.js.map": "/vimal13/static/js/787.18dcb1b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27625e21.css",
+    "static/js/main.e0d97c9d.js"
+  ]
+}
